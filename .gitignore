@@ -1,0 +1,23 @@
+*__pycache__
+data/
+modelss/
+test_gan/
+
+# for testing purposes
+test.ipynb
+
+# ignore .ipynb_checkpoints
+.ipynb_checkpoints/
+
+# latex ignore files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+
+# ignore Mac .DS_Store
+.DS_Store
